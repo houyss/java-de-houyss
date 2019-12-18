@@ -1,2 +1,2 @@
 # java-de-houyss
-![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
+![](http://latex.codecogs.com/gif.latex?\\1+frac{1}{2}+frac{1}{4}+frac{1}{8}+...)

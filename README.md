@@ -1,2 +1,2 @@
 # java-de-houyss
-my code
+![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
